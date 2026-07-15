@@ -8,7 +8,7 @@ import (
 )
 
 type apiConfigData struct {
-	OpenWeatherMapApiKey string `json:"ef16a532c207573fbde111c8e59d6000`
+	OpenWeatherMapApiKey string `json:"your_api_key`
 }
 
 type weatherData struct {
