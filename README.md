@@ -26,6 +26,7 @@ A simple REST API built with Go that fetches real-time weather information for a
 ```
 .
 ├── main.go
+├── go.mod
 ├── .apiConfig
 └── README.md
 ```
@@ -147,14 +148,6 @@ Example Response
 
 ---
 
-## Author
+Screenshot:
+<img width="522" height="148" alt="image" src="https://github.com/user-attachments/assets/38e2034e-85c6-4653-949d-7cc381dd5551" />
 
-**Devyanshi Goswami**
-
-GitHub: https://github.com/your-username
-
----
-
-## License
-
-This project is licensed under the MIT License.
