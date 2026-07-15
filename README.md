@@ -148,6 +148,7 @@ Example Response
 
 ---
 
-Screenshot:  
+## Screenshot:  
+
 <img width="522" height="148" alt="image" src="https://github.com/user-attachments/assets/38e2034e-85c6-4653-949d-7cc381dd5551" />
 
